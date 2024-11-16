@@ -1,6 +1,4 @@
-# Привет! Меня зовут Игорь!
-
-![Приветствие](https://repository-images.githubusercontent.com/132098906/23384600-8610-11e9-991d-bcb9339b6831)
+# Привет! Меня зовут Игорь! Добро пожаловать на мою страницу
 
 ## 📞 Контакты для связи
 
@@ -19,13 +17,11 @@
 
 ## 🛠️ Мой стек технологий
 
-<div style="display: flex; flex-wrap: wrap;">
-    <span style="background-color: #007ACC; color: white; padding: 5px 10px; border-radius: 5px; margin: 3px;">C++</span>
-    <span style="background-color: #F05133; color: white; padding: 5px 10px; border-radius: 5px; margin: 3px;">Git</span>
-    <span style="background-color: #E04E39; color: white; padding: 5px 10px; border-radius: 5px; margin: 3px;">GitHub</span>
-    <span style="background-color: #F79C42; color: white; padding: 5px 10px; border-radius: 5px; margin: 3px;">CMake</span>
-    <span style="background-color: #A7003A; color: white; padding: 5px 10px; border-radius: 5px; margin: 3px;">ANTLR</span>
-</div>
+[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=flat-square)](https://en.wikipedia.org/wiki/C%2B%2B) 
+[![Git](https://img.shields.io/badge/Git-orange?logo=git&style=flat-square)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/)
+[![CMake](https://img.shields.io/badge/CMake-brightgreen?logo=cmake&style=flat-square)](https://cmake.org/)
+[![ANTLR](https://img.shields.io/badge/ANTLR-red?logo=antlr&style=flat-square)](https://www.antlr.org/)
 
 ## 📂 Мои проекты
 
