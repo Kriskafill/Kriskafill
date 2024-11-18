@@ -29,12 +29,10 @@
 ![ANTLR](https://img.shields.io/badge/ANTLR-red?logo=antlr&style=flat-square)
 ![Алгоритмы](https://img.shields.io/badge/Алгоритмы-orange?style=flat-square)
 <br>
-![Юнит-тестирование](https://img.shields.io/badge/Модульное%20тестирование-yellowgreen?style=flat-square)
+![Юнит-тестирование](https://img.shields.io/badge/Юнит-тестирование-yellowgreen?style=flat-square)
 ![RAII](https://img.shields.io/badge/RAII-green?logo=c%2B%2B&style=flat-square)
 ![Архитектура](https://img.shields.io/badge/Архитектура-lightgrey?style=flat-square)
 ![Паттерны](https://img.shields.io/badge/Паттерны-lightcoral?style=flat-square)
-![Conan Center](https://img.shields.io/conan/v/:packageName)
-![Code Climate issues](https://img.shields.io/codeclimate/tech-debt/:user/:repo)
 
 ## 📂 Мои проекты
 
