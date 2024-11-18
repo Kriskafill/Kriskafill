@@ -30,7 +30,7 @@
 ![Алгоритмы](https://img.shields.io/badge/Алгоритмы-orange?style=flat-square)
 <br>
 ![Юнит-тестирование](https://img.shields.io/badge/Юнит%20тестирование-yellowgreen?style=flat-square)
-![RAII](https://img.shields.io/badge/RAII-green?logo=c%2B%2B&style=flat-square)
+![RAII](https://img.shields.io/badge/RAII-green?style=flat-square)
 ![Архитектура](https://img.shields.io/badge/Архитектура-lightgrey?style=flat-square)
 ![Паттерны](https://img.shields.io/badge/Паттерны-lightcoral?style=flat-square)
 
