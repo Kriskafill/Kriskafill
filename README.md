@@ -17,8 +17,8 @@
 
 ## 🛠️ Мой стек технологий
 
-[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=flat-square)] 
-[![ООП](https://img.shields.io/badge/ООП-red?style=flat-square)]
+[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=flat-square)] ()
+[![ООП](https://img.shields.io/badge/ООП-red?style=flat-square)]()
 [![Git](https://img.shields.io/badge/Git-orange?logo=git&style=flat-square)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/)
 [![CMake](https://img.shields.io/badge/CMake-brightgreen?logo=cmake&style=flat-square)](https://cmake.org/)
