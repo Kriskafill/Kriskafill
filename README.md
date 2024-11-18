@@ -33,7 +33,7 @@
 ![RAII](https://img.shields.io/badge/RAII-green?style=flat-square)
 ![Архитектура](https://img.shields.io/badge/Архитектура-lightgrey?style=flat-square)
 ![Паттерны](https://img.shields.io/badge/Паттерны-lightcoral?style=flat-square)
-![Bilby Stampede](http://example.com/images/logo.png)
+![Image](../blob/master/public_html/img/nokia.png?raw=true)
 
 ## 📂 Мои проекты
 
