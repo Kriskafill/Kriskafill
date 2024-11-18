@@ -22,6 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)
 ![CMake](https://img.shields.io/badge/CMake-brightgreen?logo=cmake&style=flat-square)
+<br>
 ![MS Visual Studio](https://img.shields.io/badge/MS%20Visual%20Studio-lightblue?style=flat-square)
 ![STL](https://img.shields.io/badge/STL-lightgreen?style=flat-square)
 ![UML](https://img.shields.io/badge/UML-purple?style=flat-square)
