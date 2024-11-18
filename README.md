@@ -17,22 +17,22 @@
 
 ## 🛠️ Мой стек технологий
 
-![C++](https://img.shields.io/badge/C++-007ACC?logo=c%2B%2B&style=flat-square)
-![ООП](https://img.shields.io/badge/ООП-FF5733?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)
-![CMake](https://img.shields.io/badge/CMake-3EAA38?logo=cmake&style=flat-square)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=flat-square)
+![ООП](https://img.shields.io/badge/ООП-red?style=flat-square)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)
+![CMake](https://img.shields.io/badge/CMake-brightgreen?logo=cmake&style=flat-square)
 <br>
-![MS Visual Studio](https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=flat-square)
-![STL](https://img.shields.io/badge/STL-4CAF50?style=flat-square)
-![UML](https://img.shields.io/badge/UML-7B1FA2?style=flat-square)
-![ANTLR](https://img.shields.io/badge/ANTLR-DA3939?logo=antlr&style=flat-square)
-![Алгоритмы](https://img.shields.io/badge/Алгоритмы-FB8C00?style=flat-square)
+![MS Visual Studio](https://img.shields.io/badge/MS%20Visual%20Studio-lightblue?style=flat-square)
+![STL](https://img.shields.io/badge/STL-lightgreen?style=flat-square)
+![UML](https://img.shields.io/badge/UML-purple?style=flat-square)
+![ANTLR](https://img.shields.io/badge/ANTLR-red?logo=antlr&style=flat-square)
+![Алгоритмы](https://img.shields.io/badge/Алгоритмы-orange?style=flat-square)
 <br>
-![Юнит-тестирование](https://img.shields.io/badge/Юнит-тестирование-FFD700?style=flat-square)
-![RAII](https://img.shields.io/badge/RAII-009688?logo=c%2B%2B&style=flat-square)
-![Архитектура](https://img.shields.io/badge/Архитектура-9E9E9E?style=flat-square)
-![Паттерны](https://img.shields.io/badge/Паттерны-F57C00?style=flat-square)
+![Юнит-тестирование](https://img.shields.io/badge/Юнит%20тестирование-yellowgreen?style=flat-square)
+![RAII](https://img.shields.io/badge/RAII-green?logo=c%2B%2B&style=flat-square)
+![Архитектура](https://img.shields.io/badge/Архитектура-lightgrey?style=flat-square)
+![Паттерны](https://img.shields.io/badge/Паттерны-lightcoral?style=flat-square)
 
 ## 📂 Мои проекты
 
