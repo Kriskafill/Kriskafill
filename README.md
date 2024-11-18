@@ -26,14 +26,13 @@
 ![MS Visual Studio](https://img.shields.io/badge/MS%20Visual%20Studio-lightblue?style=flat-square)
 ![STL](https://img.shields.io/badge/STL-lightgreen?style=flat-square)
 ![UML](https://img.shields.io/badge/UML-purple?style=flat-square)
-![ANTLR](https://img.shields.io/badge/ANTLR-red?logo=antlr&style=flat-square)
-![Алгоритмы](https://img.shields.io/badge/Алгоритмы-orange?style=flat-square)
-<br>
-![Юнит-тестирование](https://img.shields.io/badge/Юнит%20тестирование-yellowgreen?style=flat-square)
 ![RAII](https://img.shields.io/badge/RAII-green?style=flat-square)
+![ANTLR](https://img.shields.io/badge/ANTLR-red?logo=antlr&style=flat-square)
+<br>
+![Юнит тестирование](https://img.shields.io/badge/Юнит%20тестирование-yellowgreen?style=flat-square)
+![Алгоритмы](https://img.shields.io/badge/Алгоритмы-orange?style=flat-square)
 ![Архитектура](https://img.shields.io/badge/Архитектура-lightgrey?style=flat-square)
 ![Паттерны](https://img.shields.io/badge/Паттерны-lightcoral?style=flat-square)
-![Image](../blob/master/public_html/img/nokia.png?raw=true)
 
 ## 📂 Мои проекты
 
